@@ -1,0 +1,7 @@
+{
+  "name": "ComeHere",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
